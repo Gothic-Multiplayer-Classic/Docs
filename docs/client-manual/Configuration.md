@@ -36,6 +36,7 @@ The configuration uses **TOML** format. All settings are optional; if a setting 
 - **Description:** Enables communication with external tools via MCP pipe.
 ---
 ### `renderer_type`
+To learn more, check [Renderer article](Renderer.md).
 - **Type:** string
 - **Allowed values:** `"D3D7"`, `"D3D9"`, `"D3D11"`
 - **Description:** Selects which graphics renderer the application uses.

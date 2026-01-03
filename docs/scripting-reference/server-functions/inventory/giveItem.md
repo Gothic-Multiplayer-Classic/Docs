@@ -1,0 +1,20 @@
+---
+title: 'giveItem'
+---
+# `function` giveItem <font size="4">(server-side)</font>
+
+Give an item to a player or NPC.
+
+## Declaration
+```cpp
+boolean giveItem(int player_id, string instance, int amount)
+```
+
+## Parameters
+* `int` **player_id**: Target player id.
+* `string` **instance**: Item instance name from scripts.
+* `int` **amount**: Amount to give.
+  
+## Returns `boolean`
+True on success.
+

@@ -27,7 +27,7 @@ markdown_extensions:
 theme:
   name: material
   logo: assets/logo.png
-  favicon: assets/favicon.ico
+  # favicon: assets/favicon.ico
   features:
       - navigation.footer
   icon:
