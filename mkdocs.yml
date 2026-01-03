@@ -1,0 +1,46 @@
+site_name: Gothic Multiplayer Documentation
+site_url: https://gothic-multiplayer-classic.github.io/Docs/
+repo_name: Gothic Multiplayer
+repo_url: https://github.com/skejt23/GothicMultiplayer
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@GothicMultiplayer
+    - icon: simple/discord
+      link: https://discord.gg/8BCrFf8qEJ
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.tabbed:
+      alternate_style: true # https://github.com/squidfunk/mkdocs-material/issues/3330
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+      - navigation.footer
+  icon:
+    repo: fontawesome/brands/gitlab
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/eye-outline
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/eye
+        name: Switch to light mode
