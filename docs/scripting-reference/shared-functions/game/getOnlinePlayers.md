@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `{...}`
 Table containing player ids.
-

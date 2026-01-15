@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `float`
 Day length in seconds.
-

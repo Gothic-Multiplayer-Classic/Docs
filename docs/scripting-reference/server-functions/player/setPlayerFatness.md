@@ -16,4 +16,3 @@ boolean setPlayerFatness(int player_id, float fatness)
   
 ## Returns `boolean`
 True on success.
-

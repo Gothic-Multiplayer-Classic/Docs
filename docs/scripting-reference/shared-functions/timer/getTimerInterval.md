@@ -15,4 +15,3 @@ int|nil getTimerInterval(int timer_id)
   
 ## Returns `int|nil`
 Interval in milliseconds, or nil if not found.
-

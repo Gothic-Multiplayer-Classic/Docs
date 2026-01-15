@@ -15,4 +15,3 @@ int|nil getPlayerDexterity(int player_id)
   
 ## Returns `int|nil`
 Dexterity value or nil.
-

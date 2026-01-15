@@ -15,4 +15,3 @@ string|nil getPlayerWorld(int player_id)
   
 ## Returns `string|nil`
 World name or nil.
-

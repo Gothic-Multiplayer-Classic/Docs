@@ -17,4 +17,3 @@ int|nil getTimerExecuteTimes(int timer_id)
   
 ## Returns `int|nil`
 Execute count (0 = infinite), or nil if not found.
-

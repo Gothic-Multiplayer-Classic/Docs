@@ -18,4 +18,3 @@ boolean setPlayerPosition(int player_id, int x, int y, int z)
   
 ## Returns `boolean`
 True on success.
-

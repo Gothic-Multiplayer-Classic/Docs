@@ -17,4 +17,3 @@ boolean giveItem(int player_id, string instance, int amount)
   
 ## Returns `boolean`
 True on success.
-

@@ -15,4 +15,3 @@ int|nil getPlayerMaxMana(int player_id)
   
 ## Returns `int|nil`
 Max mana or nil.
-

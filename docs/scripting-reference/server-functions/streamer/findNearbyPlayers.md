@@ -18,4 +18,3 @@ Find player ids within a radius of a given position in a world.
   
 ## Returns `{...}`
 Array of player ids.
-

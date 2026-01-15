@@ -15,4 +15,3 @@ Get the list of players currently streamed to the given player.
   
 ## Returns `{...}`
 Array of player ids.
-

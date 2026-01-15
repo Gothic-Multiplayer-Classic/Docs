@@ -15,4 +15,3 @@ Get the list of players that have been spawned for the given player.
   
 ## Returns `{...}`
 Array of player ids.
-

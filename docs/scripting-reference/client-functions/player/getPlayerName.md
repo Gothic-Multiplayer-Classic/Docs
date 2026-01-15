@@ -15,4 +15,3 @@ string|nil getPlayerName(int player_id)
   
 ## Returns `string|nil`
 Player name or nil.
-

@@ -13,5 +13,3 @@ void setCursorPositionPx(int x, int y)
 ## Parameters
 * `int` **x**: X position in pixels.
 * `int` **y**: Y position in pixels.
-  
-

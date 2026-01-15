@@ -1,4 +1,4 @@
-# Configuration
+# Server Configuration
 This document explains all available options in the **server configuration file**.
 The configuration uses **TOML** format. All settings are optional unless stated otherwise.
 Changes require a **server restart** to take effect.

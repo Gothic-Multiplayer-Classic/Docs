@@ -15,5 +15,3 @@ void setPlayerScale(int player_id, float x, float y, float z)
 * `float` **x**: Scale factor on x axis.
 * `float` **y**: Scale factor on y axis.
 * `float` **z**: Scale factor on z axis.
-  
-

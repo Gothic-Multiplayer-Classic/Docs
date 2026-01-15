@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `string`
 Current server world or empty string.
-

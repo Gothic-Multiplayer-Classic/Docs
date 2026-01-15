@@ -15,5 +15,3 @@ void setPlayerColor(int player_id, int r, int g, int b)
 * `int` **r**: Red (0-255).
 * `int` **g**: Green (0-255).
 * `int` **b**: Blue (0-255).
-  
-

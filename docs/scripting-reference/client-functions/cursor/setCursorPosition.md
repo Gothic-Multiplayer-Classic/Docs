@@ -13,5 +13,3 @@ void setCursorPosition(int x, int y)
 ## Parameters
 * `int` **x**: X position.
 * `int` **y**: Y position.
-  
-

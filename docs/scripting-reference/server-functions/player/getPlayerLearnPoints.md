@@ -15,4 +15,3 @@ int|nil getPlayerLearnPoints(int player_id)
   
 ## Returns `int|nil`
 Learn points or nil.
-

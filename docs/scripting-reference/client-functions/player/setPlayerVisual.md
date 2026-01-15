@@ -16,5 +16,3 @@ void setPlayerVisual(int player_id, string body_model, int body_texture, string 
 * `int` **body_texture**: Body texture index.
 * `string` **head_model**: Head model name.
 * `int` **head_texture**: Head texture index.
-  
-

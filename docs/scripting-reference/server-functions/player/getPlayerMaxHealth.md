@@ -15,4 +15,3 @@ int|nil getPlayerMaxHealth(int player_id)
   
 ## Returns `int|nil`
 Max health or nil.
-

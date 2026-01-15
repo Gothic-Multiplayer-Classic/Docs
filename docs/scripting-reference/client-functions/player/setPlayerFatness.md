@@ -13,5 +13,3 @@ void setPlayerFatness(int player_id, float fatness)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `float` **fatness**: Fatness value.
-  
-

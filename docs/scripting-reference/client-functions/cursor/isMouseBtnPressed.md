@@ -15,4 +15,3 @@ bool isMouseBtnPressed(int button)
   
 ## Returns `bool`
 True if the button is pressed.
-

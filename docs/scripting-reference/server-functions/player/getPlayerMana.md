@@ -15,4 +15,3 @@ int|nil getPlayerMana(int player_id)
   
 ## Returns `int|nil`
 Mana value or nil.
-

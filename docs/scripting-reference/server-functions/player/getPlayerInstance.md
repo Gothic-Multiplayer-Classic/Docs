@@ -15,4 +15,3 @@ string|nil getPlayerInstance(int player_id)
   
 ## Returns `string|nil`
 Instance name or nil.
-

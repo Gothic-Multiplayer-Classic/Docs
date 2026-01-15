@@ -20,4 +20,3 @@ boolean sendPlayerMessageToPlayer(int sender_id, int receiver_id, int r, int g, 
   
 ## Returns `boolean`
 True on success.
-

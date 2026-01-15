@@ -21,4 +21,3 @@ int setTimer(function func, int interval, int execute_times, ... ...)
   
 ## Returns `int`
 Timer ID.
-

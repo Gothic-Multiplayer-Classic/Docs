@@ -12,5 +12,3 @@ void setDayLength(float day_length_seconds)
 
 ## Parameters
 * `float` **day_length_seconds**: Length of day in seconds.
-  
-

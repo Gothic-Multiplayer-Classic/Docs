@@ -7,7 +7,7 @@ title: 'Vec2'
 
 ### Constructor
 ```cpp
-Vec2(number value)
+Vec2.new(number value)
 ```
 
 **Parameters:**
@@ -15,7 +15,7 @@ Vec2(number value)
 * `number` **value**: Value assigned to x and y.
 ### Constructor
 ```cpp
-Vec2(number x, number y)
+Vec2.new(number x, number y)
 ```
 
 **Parameters:**

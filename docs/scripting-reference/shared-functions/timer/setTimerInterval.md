@@ -13,5 +13,3 @@ void setTimerInterval(int timer_id, int interval)
 ## Parameters
 * `int` **timer_id**: Timer ID returned by setTimer.
 * `int` **interval**: New interval in milliseconds.
-  
-

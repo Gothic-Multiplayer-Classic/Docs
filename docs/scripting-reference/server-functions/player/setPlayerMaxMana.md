@@ -16,4 +16,3 @@ boolean setPlayerMaxMana(int player_id, int max_mana)
   
 ## Returns `boolean`
 True on success.
-

@@ -16,4 +16,3 @@ boolean setPlayerMana(int player_id, int mana)
   
 ## Returns `boolean`
 True on success.
-

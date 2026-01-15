@@ -15,4 +15,3 @@ Convert hex color to rgb representation.
   
 ## Returns `{r, g, b}`
 Table containing r, g, b components.
-

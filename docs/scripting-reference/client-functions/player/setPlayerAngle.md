@@ -14,5 +14,3 @@ void setPlayerAngle(int player_id, float angle, boolean|nil interpolate)
 * `int` **player_id**: Target player id.
 * `float` **angle**: Angle in radians.
 * `boolean|nil` **interpolate**: Optional interpolation flag.
-  
-

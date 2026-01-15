@@ -16,4 +16,3 @@ boolean setPlayerName(int player_id, string name)
   
 ## Returns `boolean`
 True on success.
-

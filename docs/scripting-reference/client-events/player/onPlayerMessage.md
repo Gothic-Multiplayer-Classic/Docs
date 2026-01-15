@@ -7,7 +7,7 @@ Triggered when a chat message is received locally.
 
 ## Parameters
 ```c++
-int sender_id, int r, int g, int b, string message
+void onPlayerMessage(int sender_id, int r, int g, int b, string message)
 ```
 
 * `int` **sender_id**: Optional sender id (nil for system).
@@ -15,4 +15,3 @@ int sender_id, int r, int g, int b, string message
 * `int` **g**: Green color component.
 * `int` **b**: Blue color component.
 * `string` **message**: Message text.
-

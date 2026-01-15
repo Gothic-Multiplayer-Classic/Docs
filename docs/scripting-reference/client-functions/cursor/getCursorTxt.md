@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `string`
 Texture file name.
-

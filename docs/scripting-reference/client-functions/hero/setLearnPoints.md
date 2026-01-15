@@ -12,5 +12,3 @@ void setLearnPoints(int learn_points)
 
 ## Parameters
 * `int` **learn_points**: New learn points value.
-  
-

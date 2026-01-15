@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `{day, hour, min}`
 Table containing day, hour, min.
-

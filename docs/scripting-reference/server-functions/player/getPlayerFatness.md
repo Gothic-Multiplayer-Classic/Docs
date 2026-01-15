@@ -15,4 +15,3 @@ float|nil getPlayerFatness(int player_id)
   
 ## Returns `float|nil`
 Fatness value or nil.
-

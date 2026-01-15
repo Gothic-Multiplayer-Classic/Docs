@@ -19,4 +19,3 @@ boolean setPlayerVisual(int player_id, string body_model, int body_texture, stri
   
 ## Returns `boolean`
 True on success.
-

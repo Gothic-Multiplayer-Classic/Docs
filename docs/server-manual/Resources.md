@@ -45,7 +45,7 @@ my_resource_two/
 
 ### `resource.toml`
 
-`resource.toml` defines resource metadata. It's ssed only for identification and validation
+`resource.toml` defines resource metadata. It's used only for identification and validation
 
 Minimal example:
 
@@ -78,7 +78,7 @@ Meaning:
 
 * `client/` - client-only Lua
 * `shared/` - Lua shared between client and server
-* `server/` - server-only Lua (never loaded by the client)
+* `server/` - server-only Lua
 
 Client can only load from `client/` and `shared/`.
 

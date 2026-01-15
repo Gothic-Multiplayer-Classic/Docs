@@ -15,5 +15,3 @@ void setPlayerPosition(int player_id, float x, float y, float z)
 * `float` **x**: X coordinate.
 * `float` **y**: Y coordinate.
 * `float` **z**: Z coordinate.
-  
-

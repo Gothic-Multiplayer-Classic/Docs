@@ -17,4 +17,3 @@ boolean equipItem(int player_id, string instance, int slot_id)
   
 ## Returns `boolean`
 True on success.
-

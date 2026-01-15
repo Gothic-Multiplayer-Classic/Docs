@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `bool`
 True if the cursor is visible.
-

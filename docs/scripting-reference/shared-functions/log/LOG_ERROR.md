@@ -15,5 +15,3 @@ void LOG_ERROR(string text)
 
 ## Parameters
 * `string` **text**: The message text, may contain format specifiers.
-  
-

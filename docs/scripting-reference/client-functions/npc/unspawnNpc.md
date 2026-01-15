@@ -15,4 +15,3 @@ boolean unspawnNpc(int npc_id)
   
 ## Returns `boolean`
 True on success.
-

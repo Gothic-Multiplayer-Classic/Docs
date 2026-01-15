@@ -1,4 +1,4 @@
-# Configuration
+# Client Configuration
 This file explains all available options in the configuration file.
 The configuration uses **TOML** format. All settings are optional; if a setting is missing, a default value is used.
 
@@ -31,16 +31,23 @@ The configuration uses **TOML** format. All settings are optional; if a setting 
 - **Type:** boolean
 - **Description:** Keeps the application window above other windows when enabled.
 ---
+### `vsync_enabled`
+- **Type:** boolean
+- **Description:** Enable or disable VSync.
+---
 ### `mcp_pipe_enabled`
 - **Type:** boolean
 - **Description:** Enables communication with external tools via MCP pipe.
 ---
 ### `renderer_type`
-To learn more, check [Renderer article](Renderer.md).
+!!! note 
+	If you plan to use modifications like [G3D11](https://github.com/SaiyansKing/GD3D11) or [LegacyAltRenderer](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer), you need to use D3D7 on GMP.
+
 - **Type:** string
 - **Allowed values:** `"D3D7"`, `"D3D9"`, `"D3D11"`
 - **Description:** Selects which graphics renderer the application uses.
 
+To learn more, check [Renderer article](Renderer.md).
 ---
 ## Watch Position
 Controls where the watch/clock is displayed on screen.

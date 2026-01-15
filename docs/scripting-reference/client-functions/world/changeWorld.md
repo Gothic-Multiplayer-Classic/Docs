@@ -13,5 +13,3 @@ void changeWorld(string world, string|nil start_point)
 ## Parameters
 * `string` **world**: World filename.
 * `string|nil` **start_point**: Optional start point name.
-  
-

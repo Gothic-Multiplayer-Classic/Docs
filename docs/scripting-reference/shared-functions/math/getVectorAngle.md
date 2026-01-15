@@ -18,4 +18,3 @@ float getVectorAngle(float x1, float y1, float x2, float y2)
   
 ## Returns `float`
 The angle on Y axis directed towards the second point.
-

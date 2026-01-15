@@ -13,5 +13,3 @@ void setPlayerHealth(int player_id, int health)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `int` **health**: New health value.
-  
-

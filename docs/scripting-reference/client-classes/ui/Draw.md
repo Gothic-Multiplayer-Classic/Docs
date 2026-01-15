@@ -10,7 +10,7 @@ Call render() each frame to draw the text using current settings.
 
 ### Constructor
 ```cpp
-Draw()
+Draw.new()
 ```
 
 **Parameters:**
@@ -18,7 +18,7 @@ Draw()
 No parameters.
 ### Constructor
 ```cpp
-Draw(int x, int y, string text)
+Draw.new(int x, int y, string text)
 ```
 
 **Parameters:**

@@ -13,5 +13,3 @@ void setPlayerMana(int player_id, int mana)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `int` **mana**: Mana value.
-  
-

@@ -15,4 +15,3 @@ int|nil getPlayerExp(int player_id)
   
 ## Returns `int|nil`
 Exp value or nil.
-

@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `string`
 World filename.
-

@@ -7,4 +7,3 @@ Triggered once when the Gothic engine initializes.
 
 ## Parameters
 No parameters.
-

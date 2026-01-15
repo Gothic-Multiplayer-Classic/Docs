@@ -16,4 +16,3 @@ boolean setPlayerMaxHealth(int player_id, int max_health)
   
 ## Returns `boolean`
 True on success.
-

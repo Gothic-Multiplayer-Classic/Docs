@@ -15,4 +15,3 @@ Get a player's position as a table {x,y,z} or nil if unavailable.
   
 ## Returns `{x, y, z}|nil`
 Table containing x,y,z or nil.
-

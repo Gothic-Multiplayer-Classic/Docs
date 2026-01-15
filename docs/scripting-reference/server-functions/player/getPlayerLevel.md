@@ -15,4 +15,3 @@ int|nil getPlayerLevel(int player_id)
   
 ## Returns `int|nil`
 Level or nil.
-

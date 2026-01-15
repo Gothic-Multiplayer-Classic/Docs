@@ -16,4 +16,3 @@ boolean setPlayerInstance(int player_id, string instance)
   
 ## Returns `boolean`
 True on success, false otherwise.
-

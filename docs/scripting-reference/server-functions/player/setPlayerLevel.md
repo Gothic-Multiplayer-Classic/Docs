@@ -16,4 +16,3 @@ boolean setPlayerLevel(int player_id, int level)
   
 ## Returns `boolean`
 True on success.
-

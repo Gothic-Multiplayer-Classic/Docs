@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int`
 Number of players on the server.
-

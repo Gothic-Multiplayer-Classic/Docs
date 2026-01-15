@@ -18,4 +18,3 @@ boolean sendMessageToAll(int r, int g, int b, string text)
   
 ## Returns `boolean`
 True on success.
-

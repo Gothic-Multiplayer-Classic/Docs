@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int, int`
 X and Y position.
-

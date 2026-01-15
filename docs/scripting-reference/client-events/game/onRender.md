@@ -7,4 +7,3 @@ Triggered each frame when the game renders.
 
 ## Parameters
 No parameters.
-

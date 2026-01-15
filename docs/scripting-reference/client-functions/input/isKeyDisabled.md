@@ -11,8 +11,7 @@ bool isKeyDisabled(int keyId)
 ```
 
 ## Parameters
-* `int` **keyId**: The key code to check. For more information about key codes, see [Key Constants](../../client-constants/key.md).
+* `int` **keyId**: The key code to check. For more information about key codes, see [Key Constants](../../client-constants/Key.md).
   
 ## Returns `bool`
 true when disabled, otherwise false.
-

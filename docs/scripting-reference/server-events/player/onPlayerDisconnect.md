@@ -7,8 +7,7 @@ Triggered when a player disconnects from the server.
 
 ## Parameters
 ```c++
-int player_id
+void onPlayerDisconnect(int player_id)
 ```
 
 * `int` **player_id**: The id of the player that disconnected.
-

@@ -12,5 +12,3 @@ void killTimer(int timer_id)
 
 ## Parameters
 * `int` **timer_id**: Timer ID returned by setTimer.
-  
-

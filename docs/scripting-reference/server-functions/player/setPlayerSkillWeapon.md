@@ -17,4 +17,3 @@ boolean setPlayerSkillWeapon(int player_id, int skill_id, int percentage)
   
 ## Returns `boolean`
 True on success.
-

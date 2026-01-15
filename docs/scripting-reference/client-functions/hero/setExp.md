@@ -12,5 +12,3 @@ void setExp(int exp)
 
 ## Parameters
 * `int` **exp**: New exp value.
-  
-

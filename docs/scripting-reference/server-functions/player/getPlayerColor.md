@@ -15,4 +15,3 @@ Get a player's name color as a table {r, g, b} or nil if unavailable.
   
 ## Returns `{r, g, b}|nil`
 RGB color or nil.
-

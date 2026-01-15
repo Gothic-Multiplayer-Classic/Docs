@@ -16,4 +16,3 @@ boolean setPlayerLearnPoints(int player_id, int learn_points)
   
 ## Returns `boolean`
 True on success.
-

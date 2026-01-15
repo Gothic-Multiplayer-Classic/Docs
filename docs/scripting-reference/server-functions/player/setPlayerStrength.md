@@ -16,4 +16,3 @@ boolean setPlayerStrength(int player_id, int strength)
   
 ## Returns `boolean`
 True on success.
-

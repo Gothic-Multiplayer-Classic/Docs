@@ -19,4 +19,3 @@ boolean sendPlayerMessageToAll(int sender_id, int r, int g, int b, string text)
   
 ## Returns `boolean`
 True on success.
-

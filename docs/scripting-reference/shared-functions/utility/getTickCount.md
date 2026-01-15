@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int`
 The amount of time that your system has been running in miliseconds.
-

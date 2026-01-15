@@ -16,4 +16,3 @@ boolean setPlayerHealth(int player_id, int health)
   
 ## Returns `boolean`
 True on success.
-

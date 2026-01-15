@@ -13,5 +13,3 @@ void setTime(int hour, int minute)
 ## Parameters
 * `int` **hour**: Hour component.
 * `int` **minute**: Minute component.
-  
-

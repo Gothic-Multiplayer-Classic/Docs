@@ -10,7 +10,7 @@ common quaternion operations and interpolation utilities.
 
 ### Constructor
 ```cpp
-Quat()
+Quat.new()
 ```
 
 **Parameters:**
@@ -18,7 +18,7 @@ Quat()
 No parameters.
 ### Constructor
 ```cpp
-Quat(number w)
+Quat.new(number w)
 ```
 
 **Parameters:**
@@ -26,7 +26,7 @@ Quat(number w)
 * `number` **w**: W component.
 ### Constructor
 ```cpp
-Quat(number x, number y, number z, number w)
+Quat.new(number x, number y, number z, number w)
 ```
 
 **Parameters:**

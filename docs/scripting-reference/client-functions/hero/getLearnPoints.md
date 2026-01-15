@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int|nil`
 Learn points or nil.
-

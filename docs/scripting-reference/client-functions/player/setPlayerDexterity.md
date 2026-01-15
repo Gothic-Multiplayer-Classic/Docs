@@ -13,5 +13,3 @@ void setPlayerDexterity(int player_id, int dexterity)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `int` **dexterity**: Dexterity value.
-  
-

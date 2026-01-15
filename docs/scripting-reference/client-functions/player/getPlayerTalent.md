@@ -16,4 +16,3 @@ int|nil getPlayerTalent(int player_id, int talent_id)
   
 ## Returns `int|nil`
 Talent value or nil.
-

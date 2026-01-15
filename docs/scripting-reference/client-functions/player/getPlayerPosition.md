@@ -15,4 +15,3 @@ Get a player's world position as tuple (x,y,z).
   
 ## Returns `{x,y,z}|nil`
 Table with keys `x`,`y`,`z` or nil.
-

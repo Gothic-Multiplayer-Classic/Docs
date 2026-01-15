@@ -14,5 +14,3 @@ void setPlayerTalent(int player_id, int talent_id, int talent_value)
 * `int` **player_id**: Target player id.
 * `int` **talent_id**: Talent identifier.
 * `int` **talent_value**: Talent value.
-  
-

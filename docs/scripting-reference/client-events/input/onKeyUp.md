@@ -7,8 +7,7 @@ Triggered when a key is released.
 
 ## Parameters
 ```c++
-int key
+void onKeyUp(int key)
 ```
 
 * `int` **key**: The key code released.
-

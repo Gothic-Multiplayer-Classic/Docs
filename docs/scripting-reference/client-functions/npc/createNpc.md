@@ -15,4 +15,3 @@ int createNpc(string name)
   
 ## Returns `int`
 Internal npc id (negative) or 0 on failure.
-

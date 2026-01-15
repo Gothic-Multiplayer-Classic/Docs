@@ -7,7 +7,7 @@ title: 'Mat4'
 
 ### Constructor
 ```cpp
-Mat4()
+Mat4.new()
 ```
 
 **Parameters:**
@@ -15,7 +15,7 @@ Mat4()
 No parameters.
 ### Constructor
 ```cpp
-Mat4(number value)
+Mat4.new(number value)
 ```
 
 **Parameters:**
@@ -23,7 +23,7 @@ Mat4(number value)
 * `number` **value**: Scalar initialization value.
 ### Constructor
 ```cpp
-Mat4(Vec4 v0, Vec4 v1, Vec4 v2, Vec4 v3)
+Mat4.new(Vec4 v0, Vec4 v1, Vec4 v2, Vec4 v3)
 ```
 
 **Parameters:**

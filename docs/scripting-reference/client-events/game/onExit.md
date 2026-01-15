@@ -7,4 +7,3 @@ Triggered when the Gothic engine is exiting.
 
 ## Parameters
 No parameters.
-

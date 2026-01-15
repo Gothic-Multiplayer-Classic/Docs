@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int|nil`
 Next level exp or nil.
-

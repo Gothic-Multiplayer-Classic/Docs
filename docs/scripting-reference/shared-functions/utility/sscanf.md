@@ -16,4 +16,3 @@ array|nil sscanf(string format, string text)
   
 ## Returns `array|nil`
 The array which contains splitted text, or null if text couldn't be converted.
-

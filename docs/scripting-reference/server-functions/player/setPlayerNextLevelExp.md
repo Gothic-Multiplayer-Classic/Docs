@@ -16,4 +16,3 @@ boolean setPlayerNextLevelExp(int player_id, int next_level_exp)
   
 ## Returns `boolean`
 True on success.
-

@@ -17,4 +17,3 @@ boolean setPlayerWorld(int player_id, string world, string start_point)
   
 ## Returns `boolean`
 True on success.
-

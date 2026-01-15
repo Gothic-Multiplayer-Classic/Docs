@@ -15,4 +15,3 @@ int|nil getPlayerStrength(int player_id)
   
 ## Returns `int|nil`
 Strength value or nil.
-

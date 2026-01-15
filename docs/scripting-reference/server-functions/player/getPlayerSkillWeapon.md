@@ -16,4 +16,3 @@ int|nil getPlayerSkillWeapon(int player_id, int skill_id)
   
 ## Returns `int|nil`
 Hit chance (0-100) or nil.
-

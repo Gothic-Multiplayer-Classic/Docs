@@ -1,7 +1,7 @@
 ---
 title: 'addEventHandler'
 ---
-# `function` addEventHandler <font size="4">(server-side)</font>
+# `function` addEventHandler <font size="4">(shared-side)</font>
 
 This function will bind function to specified event.
 
@@ -16,4 +16,3 @@ boolean addEventHandler(string eventName, function func)
   
 ## Returns `boolean`
 True on success, false on failure.
-

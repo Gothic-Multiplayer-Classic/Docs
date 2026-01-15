@@ -15,4 +15,3 @@ Get a player's visual information as a table or nil if unavailable.
   
 ## Returns `{bodyModel, bodyTexture, headModel, headTexture}|nil`
 Table with bodyModel, bodyTexture, headModel, headTexture or nil.
-

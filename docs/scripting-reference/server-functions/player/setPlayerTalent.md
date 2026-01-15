@@ -17,4 +17,3 @@ boolean setPlayerTalent(int player_id, int talent_id, int talent_value)
   
 ## Returns `boolean`
 True on success.
-

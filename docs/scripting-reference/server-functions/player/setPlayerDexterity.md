@@ -16,4 +16,3 @@ boolean setPlayerDexterity(int player_id, int dexterity)
   
 ## Returns `boolean`
 True on success.
-

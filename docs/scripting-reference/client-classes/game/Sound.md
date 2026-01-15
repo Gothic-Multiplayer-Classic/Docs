@@ -10,7 +10,7 @@ playback, looping, volume, stereo balance and querying playback state.
 
 ### Constructor
 ```cpp
-Sound(string file)
+Sound.new(string file)
 ```
 
 **Parameters:**

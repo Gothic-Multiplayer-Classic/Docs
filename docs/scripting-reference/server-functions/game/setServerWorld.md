@@ -12,5 +12,3 @@ void setServerWorld(string world)
 
 ## Parameters
 * `string` **world**: World name to set.
-  
-

@@ -13,5 +13,3 @@ void Log(string name, string text)
 ## Parameters
 * `string` **name**: The name of the log file.
 * `string` **text**: The text to log.
-  
-

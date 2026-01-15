@@ -7,8 +7,7 @@ Triggered when a mouse button is pressed.
 
 ## Parameters
 ```c++
-int button
+void onMouseDown(int button)
 ```
 
 * `int` **button**: The mouse button pressed.
-

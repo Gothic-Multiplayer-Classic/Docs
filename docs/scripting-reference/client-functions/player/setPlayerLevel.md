@@ -13,5 +13,3 @@ void setPlayerLevel(int player_id, int level)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `int` **level**: New level.
-  
-

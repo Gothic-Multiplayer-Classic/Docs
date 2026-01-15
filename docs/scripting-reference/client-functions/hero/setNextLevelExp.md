@@ -12,5 +12,3 @@ void setNextLevelExp(int next_level_exp)
 
 ## Parameters
 * `int` **next_level_exp**: Required exp for next level.
-  
-

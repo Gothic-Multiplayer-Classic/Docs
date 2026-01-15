@@ -18,4 +18,3 @@ boolean setPlayerScale(int player_id, float x, float y, float z)
   
 ## Returns `boolean`
 True on success.
-

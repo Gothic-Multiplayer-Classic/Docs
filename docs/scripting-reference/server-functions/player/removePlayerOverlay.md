@@ -16,4 +16,3 @@ boolean removePlayerOverlay(int player_id, string overlay)
   
 ## Returns `boolean`
 True on success.
-

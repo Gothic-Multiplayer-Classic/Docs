@@ -12,5 +12,3 @@ void setCursorVisible(bool toggle)
 
 ## Parameters
 * `bool` **toggle**: True to show the cursor, false to hide it.
-  
-

@@ -12,5 +12,3 @@ void setCursorTxt(string file)
 
 ## Parameters
 * `string` **file**: Texture file name.
-  
-

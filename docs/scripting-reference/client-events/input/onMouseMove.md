@@ -7,9 +7,8 @@ Triggered when the mouse cursor is moved.
 
 ## Parameters
 ```c++
-int x, int y
+void onMouseMove(int x, int y)
 ```
 
 * `int` **x**: Cursor X position.
 * `int` **y**: Cursor Y position.
-

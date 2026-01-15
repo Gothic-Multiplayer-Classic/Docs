@@ -16,4 +16,3 @@ boolean spawnPlayer(int player_id, {x, y, z} Optional)
   
 ## Returns `boolean`
 True on success.
-

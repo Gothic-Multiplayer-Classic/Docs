@@ -12,5 +12,3 @@ void disableControls(bool true)
 
 ## Parameters
 * `bool` **true**: when you want to disable game keys, otherwise false.
-  
-

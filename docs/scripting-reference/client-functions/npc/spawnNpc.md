@@ -16,4 +16,3 @@ boolean spawnNpc(int npc_id, string|nil instance_name)
   
 ## Returns `boolean`
 True if spawn attached to world.
-

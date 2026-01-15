@@ -17,4 +17,3 @@ boolean setTime(int hour, int min, int day)
   
 ## Returns `boolean`
 True on success.
-

@@ -7,7 +7,7 @@ title: 'Vec4'
 
 ### Constructor
 ```cpp
-Vec4(number value)
+Vec4.new(number value)
 ```
 
 **Parameters:**
@@ -15,7 +15,7 @@ Vec4(number value)
 * `number` **value**: Value assigned to x, y, z and w.
 ### Constructor
 ```cpp
-Vec4(number x, number y, number z, number w)
+Vec4.new(number x, number y, number z, number w)
 ```
 
 **Parameters:**

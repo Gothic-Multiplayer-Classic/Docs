@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `{hour, minute}`
 Table containing hour and minute.
-

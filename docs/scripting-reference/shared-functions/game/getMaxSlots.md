@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int`
 Max slots number on the server.
-

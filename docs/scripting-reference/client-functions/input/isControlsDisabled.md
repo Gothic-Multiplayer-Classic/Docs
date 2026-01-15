@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `bool`
 true when disabled, otherwise false.
-

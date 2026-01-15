@@ -15,4 +15,3 @@ int|nil getPlayerNextLevelExp(int player_id)
   
 ## Returns `int|nil`
 Next level exp or nil.
-

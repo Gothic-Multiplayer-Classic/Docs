@@ -10,7 +10,7 @@ Call render() to draw the texture using current settings.
 
 ### Constructor
 ```cpp
-Texture(int x, int y, int width, int height, string file)
+Texture.new(int x, int y, int width, int height, string file)
 ```
 
 **Parameters:**

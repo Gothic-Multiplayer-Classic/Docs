@@ -13,5 +13,3 @@ void setCursorSize(int width, int height)
 ## Parameters
 * `int` **width**: Cursor width.
 * `int` **height**: Cursor height.
-  
-

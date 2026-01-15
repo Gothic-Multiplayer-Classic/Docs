@@ -17,4 +17,3 @@ string rgbToHex(int r, int g, int b)
   
 ## Returns `string`
 Lower case hexadecimal representation of rgb color.
-

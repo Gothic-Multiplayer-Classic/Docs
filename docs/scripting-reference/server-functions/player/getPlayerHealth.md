@@ -15,4 +15,3 @@ int|nil getPlayerHealth(int player_id)
   
 ## Returns `int|nil`
 Health value or nil.
-

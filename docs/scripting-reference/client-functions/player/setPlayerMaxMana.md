@@ -13,5 +13,3 @@ void setPlayerMaxMana(int player_id, int max_mana)
 ## Parameters
 * `int` **player_id**: Target player id.
 * `int` **max_mana**: New maximum mana.
-  
-

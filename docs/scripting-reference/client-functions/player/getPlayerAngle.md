@@ -15,4 +15,3 @@ number|nil getPlayerAngle(int player_id)
   
 ## Returns `number|nil`
 Angle in radians or nil.
-

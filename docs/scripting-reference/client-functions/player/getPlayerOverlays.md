@@ -15,4 +15,3 @@ Get a player's active animation overlays.
   
 ## Returns `{...}|nil`
 Array of overlay names or nil.
-

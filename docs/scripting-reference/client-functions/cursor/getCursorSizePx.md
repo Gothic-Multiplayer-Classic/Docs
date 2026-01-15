@@ -15,4 +15,3 @@ No parameters.
   
 ## Returns `int, int`
 Cursor width and height in pixels.
-

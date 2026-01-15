@@ -15,4 +15,3 @@ Get a player's model scale.
   
 ## Returns `{x, y, z}|nil`
 Player scale or nil.
-
