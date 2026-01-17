@@ -4,12 +4,12 @@ title: 'setDayLength'
 # `function` setDayLength <font size="4">(client-side)</font>
 !!! info "Available since version: 0.3.0"
 
-Set the duration of an in-game day in seconds.
+Set the duration of an in-game day in milliseconds.
 
 ## Declaration
 ```cpp
-void setDayLength(float day_length_seconds)
+void setDayLength(float miliseconds)
 ```
 
 ## Parameters
-* `float` **day_length_seconds**: Length of day in seconds.
+* `float` **miliseconds**: Day length in milliseconds (min 10000 ms).
