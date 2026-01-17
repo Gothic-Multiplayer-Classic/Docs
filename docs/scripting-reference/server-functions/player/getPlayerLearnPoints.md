@@ -2,6 +2,7 @@
 title: 'getPlayerLearnPoints'
 ---
 # `function` getPlayerLearnPoints <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's learn points or nil if unavailable.
 

@@ -2,6 +2,7 @@
 title: 'setPlayerColor'
 ---
 # `function` setPlayerColor <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Set a player's name color (RGB 0-255).
 

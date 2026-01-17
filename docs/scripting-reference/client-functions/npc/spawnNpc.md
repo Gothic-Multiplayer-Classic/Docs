@@ -2,6 +2,7 @@
 title: 'spawnNpc'
 ---
 # `function` spawnNpc <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Spawn a previously created NPC into the world using an optional instance.
 

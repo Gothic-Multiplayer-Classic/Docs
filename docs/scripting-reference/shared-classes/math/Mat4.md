@@ -2,6 +2,7 @@
 title: 'Mat4'
 ---
 # `class` Mat4 <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 4x4 matrix with common transformation utilities (rotation, scaling, translation).
 

@@ -2,11 +2,9 @@
 title: 'Draw'
 ---
 # `class` Draw <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
-2D text drawing helper for rendering overlay text on screen.
 
-The Draw class stores position, text, font, color, alpha and visibility.
-Call render() each frame to draw the text using current settings.
 
 ### Constructor
 ```cpp

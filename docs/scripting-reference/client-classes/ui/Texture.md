@@ -2,11 +2,9 @@
 title: 'Texture'
 ---
 # `class` Texture <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
-2D texture rendering helper for drawing image quads on screen.
 
-Stores position, size, rect, color, alpha, visibility and source file.
-Call render() to draw the texture using current settings.
 
 ### Constructor
 ```cpp

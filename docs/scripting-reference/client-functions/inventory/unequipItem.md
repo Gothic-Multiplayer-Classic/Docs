@@ -2,6 +2,7 @@
 title: 'unequipItem'
 ---
 # `function` unequipItem <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Unequip an item from a player or NPC on the client.
 

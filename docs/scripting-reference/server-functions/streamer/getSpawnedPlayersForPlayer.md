@@ -2,6 +2,7 @@
 title: 'getSpawnedPlayersForPlayer'
 ---
 # `function` getSpawnedPlayersForPlayer <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get the list of players that have been spawned for the given player.
 

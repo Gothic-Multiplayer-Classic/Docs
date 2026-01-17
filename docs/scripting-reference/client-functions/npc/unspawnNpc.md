@@ -2,6 +2,7 @@
 title: 'unspawnNpc'
 ---
 # `function` unspawnNpc <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Unspawn (remove) a client NPC from the world without destroying it.
 

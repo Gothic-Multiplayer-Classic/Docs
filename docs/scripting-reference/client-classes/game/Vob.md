@@ -2,8 +2,9 @@
 title: 'Vob'
 ---
 # `class` Vob <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
-Represents a 3D object in the world.
+
 
 ### Constructor
 ```cpp

@@ -2,6 +2,7 @@
 title: 'getPlayerVirtualWorld'
 ---
 # `function` getPlayerVirtualWorld <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's virtual world id or nil if unavailable.
 

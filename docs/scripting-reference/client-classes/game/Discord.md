@@ -2,6 +2,7 @@
 title: 'Discord'
 ---
 # `class` Discord <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
 This class exposes static methods for updating the user's Discord activity from the game client.
 

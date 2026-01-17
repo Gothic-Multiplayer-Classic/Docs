@@ -2,6 +2,7 @@
 title: 'equipItem'
 ---
 # `function` equipItem <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Equip an item for all players.
 

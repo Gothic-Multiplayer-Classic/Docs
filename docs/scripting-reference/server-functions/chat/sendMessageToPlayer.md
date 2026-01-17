@@ -2,6 +2,7 @@
 title: 'sendMessageToPlayer'
 ---
 # `function` sendMessageToPlayer <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Send a colored chat message to a specific player.
 

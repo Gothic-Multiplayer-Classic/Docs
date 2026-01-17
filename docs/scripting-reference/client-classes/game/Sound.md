@@ -2,11 +2,9 @@
 title: 'Sound'
 ---
 # `class` Sound <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
-Sound playback helper.
 
-Provides basic control over a sound resource loaded from a file, including
-playback, looping, volume, stereo balance and querying playback state.
 
 ### Constructor
 ```cpp

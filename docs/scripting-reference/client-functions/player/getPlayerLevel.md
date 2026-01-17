@@ -2,6 +2,7 @@
 title: 'getPlayerLevel'
 ---
 # `function` getPlayerLevel <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's level or 0 if unavailable.
 

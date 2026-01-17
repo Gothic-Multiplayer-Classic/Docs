@@ -2,6 +2,7 @@
 title: 'setPlayerWorld'
 ---
 # `function` setPlayerWorld <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Move a player to a different world, optionally specifying a start point.
 

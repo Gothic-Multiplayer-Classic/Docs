@@ -2,6 +2,7 @@
 title: 'triggerClientEvent'
 ---
 # `function` triggerClientEvent <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 !!! note
     If sendTo is omitted or `nil`, the event is sent to all connected players. If sendTo is a number, it is treated as a single player id. If sendTo is a table, it must contain player ids.
 !!! note

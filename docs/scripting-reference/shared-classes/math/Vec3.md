@@ -2,6 +2,7 @@
 title: 'Vec3'
 ---
 # `class` Vec3 <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 3D vector with basic math utilities.
 

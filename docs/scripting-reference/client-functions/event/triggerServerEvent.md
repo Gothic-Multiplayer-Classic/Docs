@@ -2,6 +2,7 @@
 title: 'triggerServerEvent'
 ---
 # `function` triggerServerEvent <font size="4">(client-side)</font>
+!!! info "Available since version: 0.3.0"
 !!! note
     You may optionally provide a numeric source element id as the next argument, followed by any number of additional arguments to send with the event.
 !!! note

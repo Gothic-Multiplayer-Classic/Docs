@@ -2,6 +2,7 @@
 title: 'findNearbyPlayers'
 ---
 # `function` findNearbyPlayers <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Find player ids within a radius of a given position in a world.
 

@@ -2,6 +2,7 @@
 title: 'giveItem'
 ---
 # `function` giveItem <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Give an item to a player or NPC.
 

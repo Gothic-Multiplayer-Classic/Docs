@@ -2,6 +2,7 @@
 title: 'getPlayerPosition'
 ---
 # `function` getPlayerPosition <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's position as a table {x,y,z} or nil if unavailable.
 

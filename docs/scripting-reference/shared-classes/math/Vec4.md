@@ -2,6 +2,7 @@
 title: 'Vec4'
 ---
 # `class` Vec4 <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 4D vector with basic math utilities.
 

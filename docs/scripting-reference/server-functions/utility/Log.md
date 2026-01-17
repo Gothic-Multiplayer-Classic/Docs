@@ -2,6 +2,7 @@
 title: 'Log'
 ---
 # `function` Log <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 This function will store the given text into a log file with the specified name.
 

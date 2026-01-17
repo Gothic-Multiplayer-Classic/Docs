@@ -2,6 +2,7 @@
 title: 'toggleEvent'
 ---
 # `function` toggleEvent <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 This function will toggle event (enable or disable it globally).
 

@@ -2,6 +2,7 @@
 title: 'setTimer'
 ---
 # `function` setTimer <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Creates a new timer that calls the given function at a fixed interval.
 

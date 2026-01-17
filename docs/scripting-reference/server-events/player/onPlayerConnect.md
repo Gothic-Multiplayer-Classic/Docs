@@ -2,6 +2,7 @@
 title: 'onPlayerConnect'
 ---
 # `event` onPlayerConnect <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Triggered when a player connects to the server.
 

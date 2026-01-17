@@ -2,6 +2,7 @@
 title: 'removeEventHandler'
 ---
 # `function` removeEventHandler <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 This function will unbind function from specified event.
 

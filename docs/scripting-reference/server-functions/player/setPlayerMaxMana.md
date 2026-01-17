@@ -2,6 +2,7 @@
 title: 'setPlayerMaxMana'
 ---
 # `function` setPlayerMaxMana <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Set a player's maximum mana.
 

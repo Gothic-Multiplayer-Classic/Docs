@@ -2,6 +2,7 @@
 title: 'sendPlayerMessageToPlayer'
 ---
 # `function` sendPlayerMessageToPlayer <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Send a player-sourced colored message to a specific player.
 

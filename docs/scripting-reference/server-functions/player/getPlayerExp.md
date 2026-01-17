@@ -2,6 +2,7 @@
 title: 'getPlayerExp'
 ---
 # `function` getPlayerExp <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's experience points or nil if unavailable.
 

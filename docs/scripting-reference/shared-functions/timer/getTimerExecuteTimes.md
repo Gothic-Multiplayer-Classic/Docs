@@ -2,6 +2,7 @@
 title: 'getTimerExecuteTimes'
 ---
 # `function` getTimerExecuteTimes <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Returns how many times the timer will execute, or nil if the timer does not exist.
 

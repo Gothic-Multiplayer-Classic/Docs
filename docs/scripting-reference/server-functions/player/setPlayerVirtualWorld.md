@@ -2,6 +2,7 @@
 title: 'setPlayerVirtualWorld'
 ---
 # `function` setPlayerVirtualWorld <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Set a player's virtual world id.
 

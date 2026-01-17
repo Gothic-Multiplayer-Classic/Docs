@@ -2,6 +2,7 @@
 title: 'getPlayerColor'
 ---
 # `function` getPlayerColor <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Get a player's name color as a table {r, g, b} or nil if unavailable.
 

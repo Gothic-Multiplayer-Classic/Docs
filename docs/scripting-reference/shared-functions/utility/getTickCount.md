@@ -2,6 +2,7 @@
 title: 'getTickCount'
 ---
 # `function` getTickCount <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 This function will get the amount of time that your system has been running in milliseconds. You can use this function to compare how long something would take to run.
 

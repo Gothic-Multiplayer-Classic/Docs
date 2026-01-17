@@ -2,6 +2,7 @@
 title: 'sscanf'
 ---
 # `function` sscanf <font size="4">(shared-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Split the specified text, interprets it according to format and stores the results into array.
 

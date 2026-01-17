@@ -2,6 +2,7 @@
 title: 'setTime'
 ---
 # `function` setTime <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Set the server time (hour, minute, optional day offset).
 

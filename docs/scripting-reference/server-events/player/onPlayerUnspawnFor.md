@@ -2,6 +2,7 @@
 title: 'onPlayerUnspawnFor'
 ---
 # `event` onPlayerUnspawnFor <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Triggered when a player is unspawned for another player (streaming out).
 

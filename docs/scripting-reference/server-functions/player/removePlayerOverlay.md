@@ -2,6 +2,7 @@
 title: 'removePlayerOverlay'
 ---
 # `function` removePlayerOverlay <font size="4">(server-side)</font>
+!!! info "Available since version: 0.3.0"
 
 Remove animation overlay on a player.
 
